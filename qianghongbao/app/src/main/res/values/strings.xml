@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QQ抢红包</string>
+    <string name="app_description"> </string>
+    <string name="app_service_open">开启服务</string>
+    <string name="app_service_close">关闭服务</string>
+    <string name="app_github"></string>
+    <string name="app_ad"></string>
+    <string name="use_details"></string>
+</resources>
